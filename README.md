@@ -10,13 +10,14 @@ This Flask application provides an API for managing and accessing website data c
 pip install Flask flasgger
 ```
 
-2. Create a SQLite database file named `websites.db` in the project directory.
-
-3. Run the Flask application:
+2. Run the Flask application:
 ```bash
 python app.py
 ```
 The API will be available at [http://localhost:8088/apidocs](http://localhost:8088/apidocs).
+
+3. Create a SQLite database file named `websites.db` in the project directory (created automatically in the code).
+
 
 # Endpoint
 ### 1. Get Websites by Country
