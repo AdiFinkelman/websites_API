@@ -33,7 +33,7 @@ The API will be available at [http://localhost:8088/apidocs](http://localhost:80
   - 404: If the country is not found.     
 - **Example:**
   ```http
-  GET /country/israel
+  GET /israel
   ```
 
 ### 2. Get Websites by Category
@@ -49,7 +49,7 @@ The API will be available at [http://localhost:8088/apidocs](http://localhost:80
   - 404: If the country or category is not found.
 - **Example:**
   ```http
-  GET /country/usa/news
+  GET /usa/news
    ```
 
   ### 3. Add Website
