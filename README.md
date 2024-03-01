@@ -7,7 +7,8 @@ This Flask application provides an API for managing and accessing website data c
 1. Install Flask and required dependencies:
 
 ```bash
-pip install Flask flasgger
+pip install Flask
+pip install flasgger
 ```
 
 2. Run the Flask application:
