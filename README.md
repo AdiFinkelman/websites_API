@@ -28,12 +28,11 @@ The API will be available at [http://localhost:8088/apidocs](http://localhost:80
   - `country`: The name of the country.
 - **Response:**
   - 200: A JSON object containing websites for the specified country.
-  - 404: If the country is not found.
-    
-## Example:
-```http
-GET /country/israel
-```
+  - 404: If the country is not found.     
+- **Example:**
+  ```http
+  GET /country/israel
+  ```
 
 ### 2. Get Websites by Category
 
