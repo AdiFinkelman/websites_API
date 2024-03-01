@@ -14,9 +14,10 @@ pip install Flask flasgger
 ```bash
 python app.py
 ```
-The API will be available at [http://localhost:8088/apidocs](http://localhost:8088/apidocs).
 
 3. Create a SQLite database file named `websites.db` in the project directory (created automatically in the code).
+
+The API will be available at [http://localhost:8088/apidocs](http://localhost:8088/apidocs).
 
 
 # Endpoint
