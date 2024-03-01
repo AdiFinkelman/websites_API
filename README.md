@@ -23,7 +23,7 @@ The API will be available at [http://localhost:8088/apidocs](http://localhost:80
 # Endpoint
 ### 1. Get Websites by Country
 
-#### Endpoint: `/country/<country>`
+#### Endpoint: `/<country>`
 
 - **Method:** GET
 - **Parameters:**
@@ -38,7 +38,7 @@ The API will be available at [http://localhost:8088/apidocs](http://localhost:80
 
 ### 2. Get Websites by Category
 
-#### Endpoint: `/country/<country>/<category>`
+#### Endpoint: `/<country>/<category>`
 
 - **Method:** GET
 - **Parameters:**
